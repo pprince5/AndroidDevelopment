@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">first_app</string>
+    <string name="count_initial_value">0</string>
+    <string name="text_message"> Hello Toast!</string>
+    <string name="button_label_toast">Button</string>
+    <string name="button_label_count">Button</string>
+    <string name="count_initial_value1">0</string>
+    <string name="name">name</string>
+    <string name="buttton_ts">Button</string>
+    <string name="mainTextviewtext">Home</string>
+    <string name="navbarHomeiconitem">Home</string>
+    <string name="navbarRecipeiconitem">Recipe</string>
+    <string name="NavbarTimericonitem">Timer</string>
+    <string name="navbarFeedbackiconitem">Feedback</string>
+    <string name="RecipeTextviewtext">Recipes</string>
+    <string name="hello_blank_fragment">hehdncsjbjvbhjjnwnsdn</string>
+    <string name="feedbacktext">This is feedback</string>
+    <string name="mainPageheader">Learn Cooking!</string>
+</resources>
