@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+        <color name="awaited_color">#FFFFE0</color>
+        <color name="failed_to_reach_color">#FFDDDD</color>
+        <color name="onboarded_color">#CCFFCC</color>
+        <color name="in_process_color">#66FF66</color>
+        <color name="completed_color">#004d00</color>
+        <color name="denied_color">#FF0000</color>
+
+
+</resources>
